@@ -1,0 +1,19 @@
+{
+  "name": "bnb_project",
+  "version": "0.0.1",
+  "description": "projet Studi team pasteque",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvavio/bnb_project.git"
+  },
+  "author": "Sylvavio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sylvavio/bnb_project/issues"
+  },
+  "homepage": "https://github.com/sylvavio/bnb_project#readme"
+}
